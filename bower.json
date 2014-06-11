@@ -1,0 +1,28 @@
+{
+  "name": "latinize",
+  "main": "latinize.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/foxdog-studios/latinize",
+  "authors": [
+    "Peter Sutton <foxxy@foxdogstudios.com>"
+  ],
+  "description": "Simple library to convert accents (diacritics) from strings to latin characters.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "latinize",
+    "latin",
+    "characters",
+    "accents",
+    "diacritics"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
